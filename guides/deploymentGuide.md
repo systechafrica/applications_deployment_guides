@@ -1,5 +1,5 @@
 
-### **FUNDMASTER APPLICATION DEPLOYMENT GUIDE**
+### **How to Deploy FundMaster on Oracle and Postgress**
 
 ### **1. Introduction**
 
@@ -26,9 +26,7 @@ For successful deployment of the system and running of all server-side operation
 -   Qualified Database Administrators.
   
 
-### **FUNDMASTER XE ON ORACLE**
-
-To set up FundMaster Xe on the Oracle database, follow the steps below:
+### **Follow these steps to deploy FundMaster Xe on Oracle**
 
 ### **i.  Install jdk preferred version and Maven**
 
@@ -133,9 +131,7 @@ cd to the xe/target folder and run this command to deploy your application:
 ```
 
 
-### **FUNDMASTER XE ON POSTGRES**
-
-To set up FundMaster Xe on POSTGRES, follow the steps highlighted in the code snippet below:
+### **Follow these steps to deploy FundMaster Xe on Postgress**
 
 ```java
 \`\`\`\`bash
